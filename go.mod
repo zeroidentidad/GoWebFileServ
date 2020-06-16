@@ -1,3 +1,3 @@
-module github.com/zeroidentidad/servfiles
+module github.com/zeroidentidad/GoWebFileServ
 
 go 1.14

@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/zeroidentidad/servfiles/config"
+	"github.com/zeroidentidad/GoWebFileServ/config"
 )
 
 func main() {

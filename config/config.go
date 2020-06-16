@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/zeroidentidad/servfiles/models"
+	"github.com/zeroidentidad/GoWebFileServ/models"
 )
 
 func GetConfiguration() *models.Config {
